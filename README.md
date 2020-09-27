@@ -14,3 +14,5 @@ The website offers a <header> bar at the top that links to the appropriate secti
 If you click the **'Online Reputation Managment'** button on the <header> bar, you are linked to the _online reputation management_ section of the website. This section of the website details to the user how Horiseon can help their perspective company in regards to online management. This is located in the <body> of the html document where it is nested under <div class="content">.
 
 The final button on the <header> bar is for **Social Media Marketing**, it links the user to the _social media marketing_ section of the website. Here, the user can get information on how Horiseon can help their company with social media marketing on the web. In the html document, this is in the <body> nested under the <div class="content"> tag.
+
+In addition to sections listed above, we have a final section listed under <div class="benefits">. In here, the user can find the benefits of using Horiseon as a marketing firm which include _lead generation_, _brand awareness_, and _cost management_. This is the final section of the website that is nested under the <body> tag in the html document.
