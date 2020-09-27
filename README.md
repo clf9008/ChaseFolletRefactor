@@ -1,8 +1,8 @@
 # ChaseFolletRefactor
 
-## TheRepository **This is Bold Text**
+## TheRepository
 
-This is the repository for the Refactor assignment given to us by a marketing firm Horiseon. Here, I will publish the code for the website (_index.html_[Contribution guidelines for this project](docs/Assests/index.html) and _style.css_) as well as issues and explanation of the website and its features.
+This is the repository for the Refactor assignment given to us by a marketing firm Horiseon. Here, I will publish the code for the website git  as well as issues and explanation of the website and its features.
 
 ### Horiseon Website
 
