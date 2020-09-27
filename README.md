@@ -6,7 +6,7 @@ This is the repository for the Refactor assignment given to us by a marketing fi
 
 ### Horiseon Website
 
-![Horiseon Website](C:\Users\Chase\Desktop\code-activities\Refactor\ChaseFolletRefactor\Assets\01-html-css-git-homework-demo.png)
+![Horiseon Website](https://github.com/clf9008/ChaseFolletRefactor/blob/Assests/01-html-css-git-homework-demo.png)
 Horiseon is a marketing firm that specializes in **search engine optimization, online reputation management, and social media marketing**. In addition, Horiseon also offers help with _lead generation, brand awareness, and cost management._
 
 The website offers a header bar at the top that links to the appropriate section in the body of the webpage. By clicking on the **'Search Engine Optimization'** button in the header, you are linked to the _search engine optimzation_ portion of the body that is nested under <div class="content">. Here, the user is given information on how Horiseon helps a company with search engine optimazation.
